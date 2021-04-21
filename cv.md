@@ -7,7 +7,7 @@ I am 31 years old. My first and main profession at the moment is structural desi
 I am very interested in the field of software development and mobile development. I have no development experience, but I have a great desire to develop, learn new things, and solve complex problems. When I was taking the course Harvard CS50 I realized, that the approach to solving problems is very similar to design of buildings and for this I have all the necessary qualities: perseverance, the ability to find and analyze information, solve comlex problems in different ways, think structurally in general, communicate with others specialists, make decisions and take responsibility, because the structural analysis of buildings is a work associated with great responsibility (for the lives of people), requires extreme care and minimization of risks.
 From the course, I expect, first of all, structured knowledge and support from the community. And in general I want to learn new things!
 ### 4. Skills
-I am newbie in developing :(
+I am newbie in developing :((
 ### 5. Code examples:
 This is little program on C from CS50 that recover a jpeg images from "damaged" file:
 ```C
